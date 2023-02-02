@@ -13,7 +13,7 @@ const val: Developer = {
     },
     education: ["Software University of Sofia", "IU University"],
     hobbies: ["Coding", "Oil Paiting", "Gaming"],
-    goal: "Contributing to interesting projects"
+    goal: "Contributing to interesting projects and expanding my knowledge"
 };
 ```
 
