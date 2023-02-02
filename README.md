@@ -7,12 +7,13 @@
 const val: Developer = {
     code: ["Javascript"],
     technologies: {
-        backEnd: ["Express.js", "MangoDB", "NoSQL"],
-        frontEnd: ["React"],
+        backEnd: ["Express.js"],
+        frontEnd: ["REACT in the making"],
+        databases: ["MangoDB", "NoSQL"]
     },
     education: ["Software University of Sofia", "IU University"],
     hobbies: ["Coding", "Oil Paiting", "Gaming"],
-    goal: "Contributing to Open Source projects"
+    goal: "Contributing to interesting projects"
 };
 ```
 
