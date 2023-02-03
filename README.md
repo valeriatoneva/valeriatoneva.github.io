@@ -9,7 +9,7 @@ const val: Developer = {
     technologies: {
         backEnd: ["Express.js"],
         frontEnd: ["REACT in the making"],
-        databases: ["MangoDB", "NoSQL"]
+        databases: ["MongoDB", "NoSQL"]
     },
     education: ["Software University of Sofia", "IU University"],
     hobbies: ["Coding", "Oil Paiting", "Gaming"],
