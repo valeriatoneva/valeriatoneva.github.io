@@ -8,11 +8,11 @@ const val: Developer = {
     code: ["Javascript"],
     technologies: {
         backEnd: ["Express.js", "Node.js"],
-        frontEnd: ["React in the making"],
-        databases: ["MongoDB",]
+        frontEnd: ["Mithril.js", "HTML", "CSS"],
+        databases: ["MongoDB", "SQLite"]
     },
-    education: ["Software University of Sofia", "IU University"],
-    hobbies: ["Coding", "Oil Paiting", "Gaming"],
+    education: ["Software University of Sofia", "PMG Atanas Radev"],
+    hobbies: ["Coding", "Cars", "Gaming"],
     goal: "Contributing to interesting projects and expanding my knowledge"
 };
 ```
